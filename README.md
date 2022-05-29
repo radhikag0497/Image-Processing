@@ -1,9 +1,10 @@
 # Image-Processing
 
 ### Pre-requisites:
-< pip install selenium >
+''' pip install selenium '''
 ### Chrome Driver installation
 Chrome:	https://sites.google.com/chromium.org/driver/
+
 selenium and Drivers installation guide
 https://selenium-python.readthedocs.io/installation.html
 
